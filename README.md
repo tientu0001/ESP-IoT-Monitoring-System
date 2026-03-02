@@ -136,7 +136,7 @@ ESP-IoT-Monitoring-System/
 - C/C++
 - MQTT Protocol
 - REST / HTTPS OTA
-- FreeRTOS-based task handling
+- Non-blocking firmware architecture
 
 ---
 ## 📊 Industrial Use Cases
