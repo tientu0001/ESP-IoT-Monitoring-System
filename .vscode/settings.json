@@ -1,0 +1,21 @@
+{
+    "idf.portWin": "COM18",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "limits": "cpp",
+        "type_traits": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "cctype": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false,
+    "cmake.sourceDirectory": "E:/server/Arduino/PlatformIO/program/000B/00NB/lib/ArduinoJson-6.x/extras/tests/JsonDeserializer"
+}

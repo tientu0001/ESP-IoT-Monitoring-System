@@ -1,0 +1,18 @@
+font tool at http://oleddisplay.squix.ch
+
+Online font editor
+http://sourpuss.net/projects/fontedit/
+
+https://www.epochconverter.com/
+
+before QR
+RAM:   [====      ]  36.7% (used 30040 bytes from 81920 bytes)
+Flash: [===       ]  31.7% (used 331065 bytes from 1044464 bytes)
+
+after QR
+RAM:   [====      ]  39.1% (used 32064 bytes from 81920 bytes)
+Flash: [===       ]  32.3% (used 336857 bytes from 1044464 bytes)
+RAM = 2024, Falsh = 5632
+
+RAM:   [====      ]  37.4% (used 30632 bytes from 81920 bytes)
+Flash: [===       ]  32.2% (used 336369 bytes from 1044464 bytes)

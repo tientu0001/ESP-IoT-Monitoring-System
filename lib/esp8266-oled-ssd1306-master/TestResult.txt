@@ -1,0 +1,7 @@
+https://github.com/ThingPulse/esp8266-oled-ssd1306
+(https://github.com/anunpanya/ESP8266_QRcode)
+
+Heap / Delay : 49712 / 2
+
+RAM:   [===       ]  34.9% (used 28600 bytes from 81920 bytes)
+Flash: [===       ]  26.6% (used 277949 bytes from 1044464 bytes)
