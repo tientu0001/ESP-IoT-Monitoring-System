@@ -149,4 +149,4 @@ ESP-IoT-Monitoring-System/
 
 ---
 ## 📷 Device Overview
-![Device](doc/device.jpg)
+![Device](doc/device_overview.jpg)
