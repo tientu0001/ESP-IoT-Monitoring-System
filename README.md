@@ -153,8 +153,5 @@ ESP-IoT-Monitoring-System/
 - Smart factory IoT deployment
 
 ---
-## 📷 Device
-### Overview
+## 📷 Device Overview
 ![Device](doc/device/device_overview.jpg)
-### Operation Demo
-[![Device Demo](doc/device/device_overview.jpg)](doc/device/device_operating.mp4)
