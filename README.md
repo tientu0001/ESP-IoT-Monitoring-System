@@ -2,6 +2,11 @@
 Industrial Production Monitoring Device using ESP8266
 
 ---
+# NOTE
+This repository is a simplified and restructured version of an
+industrial IoT system originally developed and deployed in production. Company-specific components and confidential parts
+have been removed.
+---
 
 ## 📌 Overview
 
